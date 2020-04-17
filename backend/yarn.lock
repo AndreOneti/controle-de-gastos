@@ -387,6 +387,11 @@ dot-prop@^5.2.0:
   dependencies:
     is-obj "^2.0.0"
 
+dot_functions_utils@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/dot_functions_utils/-/dot_functions_utils-1.2.0.tgz#93ef234a020591ca76090fe458df7902d864a54a"
+  integrity sha512-TY8Tk1CFWxgv0SjhG15acwUmdWZNxtp5wmnKqG/D7SM7QBo16f7N4c/HBJhwQr9vSR/MHtT3OBazYSfqvAcKOQ==
+
 dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"

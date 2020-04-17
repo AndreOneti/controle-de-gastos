@@ -1,7 +1,9 @@
-const handleRequest = require('./handleRequest')
-const notFound = require('./notFound')
+const handleRequest = require('./handleRequest');
+const authorized = require('./authorized');
+const notFound = require('./notFound');
 
 module.exports = {
   handleRequest,
+  authorized,
   notFound
 }
